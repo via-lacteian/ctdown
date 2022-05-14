@@ -6,11 +6,20 @@
   box-sizing: border-box;
 }
 
-.conatiner{
-  width: 100vw;
-  height: 100vh;
-  background-image:url(./imagef.jpg);
-  background-position: center;
-  background-size: cover;
-  padding: 0 8%;
-}
+
+.p1{
+    background-image: url("oip.jpg");
+    width: 100vw;
+    height: 100vh;
+            
+    background-position: center;
+    background-size: cover;
+    padding: 0 8%;
+    position: relative;
+        }
+.cont{
+    top: 50%;
+    position: absolute;
+    transform: translateY(-50%);
+    color: aliceblue;
+        }
