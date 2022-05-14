@@ -39,7 +39,7 @@
 }
 
 .heart{
-    width: 180px;
+    width: 50px;
     position: right;
     
     animation: bounce 10s linear infinite;
