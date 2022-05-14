@@ -9,7 +9,7 @@
 .conatiner{
   width: 100vw;
   height: 100vh;
-  background-image:url(imagef.jpg);
+  background-image:url(./imagef.jpg);
   background-position: center;
   background-size: cover;
   padding: 0 8%;
